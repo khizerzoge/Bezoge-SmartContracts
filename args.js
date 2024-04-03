@@ -1,0 +1,1 @@
+module.exports= ["The Lost Keys of Bezogia", "LKOB", "https://api.zogilabs.io/collectibles/key/"];
